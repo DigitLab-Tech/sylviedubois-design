@@ -5,6 +5,7 @@
  Version:      1.0.0
  Theme URI:    https://cedp.solution
  Description:  Design for us
+ Template:     twentytwenty
  Author:       CEDP
  Author URI:   https://cedp.solution
  License:      GNU General Public License version 3
@@ -80,9 +81,7 @@ i {
 
 img {
     -webkit-user-select: none;
-    -khtml-user-select: none;
     -moz-user-select: none;
-    -o-user-select: none;
     user-select: none;
 }
 
